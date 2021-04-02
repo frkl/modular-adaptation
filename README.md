@@ -18,7 +18,7 @@ Performance is evaluated both at task-level averaged over 5 splits, and at shot-
 
 ## Baseline performance
 
-Baseline performances of adapting a pretrained EfficientNet-B0 from [EfficientNet-Pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) using ProtoNet, finetuning and the modular adaptation approach of [1] is provided below.
+Baseline performance of adapting a pretrained EfficientNet-B0 from [EfficientNet-Pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) using ProtoNet, finetuning and the modular adaptation approach of [1] is provided below.
 
 2-shot
 | Approach   | QDraw | Infgrph | Sketch | Clipart | Pnting | Real  | CIFAR | Textures | Aircraft | Signs | Overall |
@@ -50,6 +50,6 @@ Baseline performances of adapting a pretrained EfficientNet-B0 from [EfficientNe
 
 
 
-## References
+## Reference
 
 [1] Xiao Lin*, Meng Ye*, Yunye Gong, Giedrius Buracas, Nikoletta Basiou, Ajay Divakaran, Yi Yao. ["Modular Adaptation for Cross-Domain Few-Shot Learning"](https://arxiv.org/abs/2104.00619). arXiv preprint arXiv:2104.00619, 2021. 
