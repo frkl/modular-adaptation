@@ -1,6 +1,6 @@
 # modular-adaptation
 
-This repository provides data splits for an ImageNet -> X cross-domain few-shot image classification benchmark used in [1]
+This repository provides data splits for an ImageNet -> X cross-domain few-shot image classification benchmark used in [1].
 
 ## How to use
 
@@ -52,4 +52,4 @@ Baseline performances of adapting a pretrained EfficientNet-B0 from [EfficientNe
 
 ## References
 
-[1] 
+[1] Xiao Lin*, Meng Ye*, Yunye Gong, Giedrius Buracas, Nikoletta Basiou, Ajay Divakaran, Yi Yao. ["Modular Adaptation for Cross-Domain Few-Shot Learning"](https://arxiv.org/abs/2104.00619). arXiv preprint arXiv:2104.00619, 2021. 
